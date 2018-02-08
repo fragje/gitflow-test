@@ -1,4 +1,4 @@
 - Second release
-- Third release Hotfix
+- Third release Hotfix, and a hotfix on v0.5.2
 - Fourth release
 - Fifth release !!! Hotfix when working on dev branch !!!

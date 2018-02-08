@@ -1,5 +1,4 @@
 - Second release
 - Third release Hotfix
 - Fourth release
-- Fifth release
-- Sixth release (on dev)
+- Fifth release !!! Hotfix when working on dev branch !!!
